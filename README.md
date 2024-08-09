@@ -1,4 +1,4 @@
-# Sentinel-Real-Time-Weapon-Detection-and-Facial-Recognition-System-
+# Sentinel
 This application uses YOLOv5 for weapon detection and Haar Cascade for facial recognition, capturing webcam feeds to detect threats. It sends real-time email alerts and logs events with timestamps and locations to enhance public safety.
 
 
@@ -63,7 +63,7 @@ This project aims to enhance public safety by developing a real-time weapon dete
 1. **Run the Application**
 
     ```bash
-    python main.py
+    CSV FILE.py
     ```
 
 2. **Stop the Application**
@@ -72,6 +72,8 @@ This project aims to enhance public safety by developing a real-time weapon dete
 
 ## Code Structure
 
+- Exploratory Data Analysis
+- Model Training
 - Main script to start the real-time detection and alerting system.
 - Contains functions for weapon detection and facial recognition.
 - Manages the alert system and logging to CSV.
