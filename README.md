@@ -72,11 +72,11 @@ This project aims to enhance public safety by developing a real-time weapon dete
 
 ## Code Structure
 
-- **`main.py`**: Main script to start the real-time detection and alerting system.
-- **`detection.py`**: Contains functions for weapon detection and facial recognition.
-- **`alert.py`**: Manages the alert system and logging to CSV.
-- **`config.py`**: Configuration file for email alerts and other settings.
-- **`models/`**: Directory containing the YOLOv5 and Haar Cascade model files.
+- Main script to start the real-time detection and alerting system.
+- Contains functions for weapon detection and facial recognition.
+- Manages the alert system and logging to CSV.
+- Configuration file for email alerts and other settings.
+- Directory containing the YOLOv5 and Haar Cascade model files.
 
 ## Challenges and Solutions
 
@@ -96,11 +96,7 @@ This project aims to enhance public safety by developing a real-time weapon dete
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
 
 For questions or feedback, please open an issue or contact [your-email@gmail.com](mailto:your-email@gmail.com).
 
