@@ -98,8 +98,6 @@ This project aims to enhance public safety by developing a real-time weapon dete
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-
-
 ---
 
 **Disclaimer:** This project is for educational and research purposes only. Ensure to comply with all local laws and regulations related to surveillance and privacy.
