@@ -98,8 +98,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 
 
-For questions or feedback, please open an issue or contact [your-email@gmail.com](mailto:your-email@gmail.com).
-
 ---
 
 **Disclaimer:** This project is for educational and research purposes only. Ensure to comply with all local laws and regulations related to surveillance and privacy.
